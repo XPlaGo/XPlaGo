@@ -12,7 +12,7 @@ Skills:
 - OOP Patterns
 
 Projects:
-1. IS-OOP-26
+1. ASP.NET: IS-OOP-26
    - Lab5 - A web-based banking application ASP.NET microservices with GPS and distributed transactions
    - Lab1 - Lab4 using OOP Patterns with C#
    - Repository: [IS-OOP-26](https://github.com/XPlaGo/Itmo.ObjectOrientedProgramming)
