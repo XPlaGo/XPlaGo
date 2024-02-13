@@ -1,0 +1,67 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .stackItem {
+                display: flex;
+                padding: 10px;
+                border-radius: 5px;
+                border: 2px solid rgba(255, 255, 255, 0.5);
+                margin: 3px;
+                min-width: 100px;
+                align-items: center;
+                justify-content: center;
+                background: rgba(255, 255, 255, 0.2);
+                font-weight: 600;
+                }
+
+                .stackItem.cs {
+                background: rgba(190, 225, 100, 0.7);
+                border: 2px solid rgba(190, 225, 100, 0.9);
+                }
+
+                .stackItem.java {
+                background: rgba(235, 158, 82, 0.7);
+                border: 2px solid rgba(235, 158, 82, 0.9);
+                }
+
+                .stackItem.kt {
+                background: rgba(224, 92, 171, 0.5);
+                border: 2px solid rgba(224, 92, 171, 0.9);
+                }
+
+                .stackItem.ts {
+                background: rgba(92, 143, 224, 0.5);
+                border: 2px solid rgba(92, 143, 224, 0.9);
+                }
+
+                .fr {
+                    height: 100px;
+                }
+
+                .container {
+
+                // background: #333;
+
+                width: 100%;
+                padding: 10px 0;
+                margin: 0;
+
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                color: white;
+
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+                }
+            </style>
+
+            <div class="container">
+                <p class="stackItem cs">C#</p>
+                <p class="stackItem java">Java</p>
+                <p class="stackItem kt">Kotlin</p>
+                <p class="stackItem ts">Typescript</p>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
