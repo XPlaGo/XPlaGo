@@ -1,4 +1,6 @@
+<div align="center">
 <img src="hello.svg"/>
+</div>
 
 Education:
 - ITMO University - Sofware Engineering
