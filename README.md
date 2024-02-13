@@ -6,12 +6,13 @@ Education:
 - ITMO University - Sofware Engineering
 
 Skills:
-- Programming Languages: C#, Java, Kotlin, TypeScript
 - Frameworks: ASP.NET, Spring, React
-- RESTful APIs, gRPC
 - Microservice architecture
+- RESTful APIs, gRPC
+- Programming Languages: C#, Java, Kotlin, TypeScript, Rust, Python
 - SQL and NOSQL
 - OOP Patterns
+- Docker
 
 Projects:
 1. ASP.NET: IS-OOP-26
