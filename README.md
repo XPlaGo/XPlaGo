@@ -20,7 +20,7 @@ Projects:
    - Lab1 - Lab4 using OOP Patterns with C#
    - Repository: [IS-OOP-26](https://github.com/XPlaGo/Itmo.ObjectOrientedProgramming)
 2. **Cat Sharing**:
-   - Creation and exchange of virtual cats for in-app currency, distributed transactions based on Kafka Streams.
+   - Creation and exchange of virtual cats for in-app currency, **distributed transactions** based on **Kafka Streams**.
    <p align="center">
       <img src="catsharing/buy.jpg" width="20%"/>
       <img src="catsharing/catonsell.jpg" width="20%"/>
