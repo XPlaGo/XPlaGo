@@ -21,14 +21,14 @@ Projects:
    - Repository: [IS-OOP-26](https://github.com/XPlaGo/Itmo.ObjectOrientedProgramming)
 2. **Cat Sharing**:
    - Creation and exchange of virtual cats for in-app currency, **distributed transactions** based on **Kafka Streams**.
-   <p align="center">
-      <img src="catsharing/buy.jpg" width="20%"/>
-      <img src="catsharing/catonsell.jpg" width="20%"/>
-      <img src="catsharing/balance.jpg" width="20%"/>
-      <img src="catsharing/transactions.jpg" width="20%"/>
-   </p>
-   - Microservices: [https://github.com/XPlaGo/cat-sharing-services](https://github.com/XPlaGo/cat-sharing-services) - Spring Boot
-   - Mobile Application: [https://github.com/XPlaGo/cat_sharing_client_app](https://github.com/XPlaGo/cat_sharing_client_app) - Flutter
+   - <p align="center">
+         <img src="catsharing/buy.jpg" width="20%"/>
+         <img src="catsharing/catonsell.jpg" width="20%"/>
+         <img src="catsharing/balance.jpg" width="20%"/>
+         <img src="catsharing/transactions.jpg" width="20%"/>
+      </p>
+   - Microservices: [https://github.com/XPlaGo/cat-sharing-services](https://github.com/XPlaGo/cat-sharing-services)
+   - Mobile Application: [https://github.com/XPlaGo/cat_sharing_client_app](https://github.com/XPlaGo/cat_sharing_client_app)
 4. **XMess**
    - [About project](https://xmess-about.framer.website)
    - A messenger based on a microservice architecture with voice control capability.
